@@ -7,9 +7,14 @@ dependencies:
 1.React.js
 <br/>
 2.Node.js
+<br/>
 3.Express.js
+<br/>
 4.Mongodb
+<br/>
 5.Socket.io
+<br/>
 6.tailwindcss
+<br/>
 7.react-router-dom
 
